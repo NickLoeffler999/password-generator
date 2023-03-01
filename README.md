@@ -2,7 +2,11 @@
 
 ## Description
 
-I wanted to build this application to test my skills at JavaScript and also to make a simple, but very useful random password generator. This project was designed so that you can go through multiple prompts for certain password criteria and have them all saved at the end of the, so that the user can have a unique, randomly generated password. This application should be accessible on every device and is able to be made sense of by other developers as far as how it's done. 
+I wanted to build this application to test my skills at JavaScript and also to make a simple, but very useful random password generator. This project was designed so that you can go through multiple prompts for certain password criteria and have them all saved at the end of the, so that the user can have a unique, randomly generated password. This application should be accessible on every device and is able to be made sense of by other developers as far as how it's done. Link to the web application:
+https://nickloeffler999.github.io/password-generator/
+
+![Screenshot_20230227_112125](https://user-images.githubusercontent.com/123021014/222242411-5a02fdc0-3e30-4445-a39a-efe10b5fdd11.png)
+
 
 
 
